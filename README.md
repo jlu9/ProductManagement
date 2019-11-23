@@ -1,5 +1,6 @@
 # Product Management
 
+## Description
 This project was created for my Network-based Application Development course and this project followed the Model-View-Controller design pattern. The SQL queries were encoded with Prepared Statements in order to prevent SQL injection.
 
 * Frontend: HTML, CSS, and JSP 
