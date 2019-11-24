@@ -7,6 +7,12 @@ This project was created for my Network-based Application Development course. Th
 * Database: MySQL database 
 
 ## Model-View-Controller (MVC) design pattern
-* Model: Product.java, User.java
+### MVC for Product
+* Model: Product.java
 * View: Index.jsp, product.jsp, products.jsp, confirmDelete.jsp, login.jsp, signup.jsp
-* Controller: ProductManagementServlet.java and MembershipServlet.java
+* Controller: ProductManagementServlet.java
+
+### MVC for User
+* Model: User.java
+* View: Index.jsp, product.jsp, products.jsp, confirmDelete.jsp, login.jsp, signup.jsp
+* Controller: MembershipServlet.java
